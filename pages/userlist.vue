@@ -59,6 +59,12 @@ export default {
                 email:'test3@hotmail.com',
                 stats:'user'
             },
+            {
+                id:5,
+                name:'Test4 test4',
+                email:'test4@hotmail.com',
+                stats:'user'
+            },
             ]
         }
     }
